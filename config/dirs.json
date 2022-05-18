@@ -1,0 +1,11 @@
+{
+  "app": "app",
+  "config": "config",
+  "databases": "databases",
+  "storage": "storage",
+  "what": "storage.what",
+  "where": "storage.where",
+  "result": "storage.result",
+  "controllers": "app.controllers",
+  "models": "app.models"
+}
